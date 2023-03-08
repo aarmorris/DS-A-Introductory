@@ -15,9 +15,9 @@ public class Main {
     }
 
 
-
-    public static void main(String[] args) {
-
-        printItems(10);
-    }
-}
+//
+//    public static void main(String[] args) {
+//
+//        printItems(10);
+//    }
+//}
