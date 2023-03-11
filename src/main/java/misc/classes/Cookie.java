@@ -1,4 +1,4 @@
-package org.datastructures;
+package misc.classes;
 
 public class Cookie {
     private String color;
