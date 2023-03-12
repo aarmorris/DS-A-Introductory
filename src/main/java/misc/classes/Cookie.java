@@ -14,8 +14,5 @@ public class Cookie {
     public void setColor(String color) {
         this.color = color;
     }
+
 }
-
-Cookie cookieOne = new Cookie("green");
-
-Cookie cookieTwo = new Cookie("blue");
